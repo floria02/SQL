@@ -1,2 +1,2 @@
-# SQL
-My SQL queries 
+# Sales analysis of product lines
+
