@@ -3,3 +3,5 @@
 <p align="center">
   <img src="https://i.postimg.cc/Rhk4zL2Z/resized2.jpg" alt="Alt text">
 </p>
+
+**Tools used:** Excel,MySQL,PowerBI
