@@ -109,6 +109,8 @@ order by year desc,avg(total_revenue) desc;
 </p>
 Two particular months in a period of 2 years have shown the most contribution to the revenue. On average October and November show the most generated revenue.
 
+<hr style="border: 1px solid #ddd;">
+
 **Sales analysis dashboard:**
 <p>
   <img src="https://i.postimg.cc/XvgtVxTY/Sales-Drop-New.jpg"Alt text">
