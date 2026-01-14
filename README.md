@@ -113,6 +113,7 @@ Two particular months in a period of 2 years have shown the most contribution to
 
 **Sales analysis dashboard:**
 The visualizations that I used are: card,clustered bar chart,stacked area chart,matrix,line chart.
+
 **DAX:**           Revenue calculation of shipped and resolved orders                           
                    Lost revenue calculation of cancelled,disputed orders                                      
                    Division for a lost revenue percentage
